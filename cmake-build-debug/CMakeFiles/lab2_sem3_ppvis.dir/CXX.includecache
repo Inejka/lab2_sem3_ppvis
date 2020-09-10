@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/inejka/CLionProjects/lab2_sem3_ppvis/main.cpp
+iostream
+-
+zoo.h
+/home/inejka/CLionProjects/lab2_sem3_ppvis/zoo.h
+
+/home/inejka/CLionProjects/lab2_sem3_ppvis/zoo.cpp
+zoo.h
+/home/inejka/CLionProjects/lab2_sem3_ppvis/zoo.h
+iostream
+-
+
+/home/inejka/CLionProjects/lab2_sem3_ppvis/zoo.h
+
